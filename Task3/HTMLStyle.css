@@ -1,0 +1,45 @@
+abbr{
+    border-bottom: 2px dotted #000;
+}
+.black{
+    color: black;
+}
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+    font-size: smaller;
+}
+dfn{
+    font-style: italic;
+    
+}
+.example{
+    background-color: lightgray;
+    margin-left: 1cm;
+    font-size: 14px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    font-weight: normal;
+}
+.red{
+    color: maroon;
+}
+.tab {
+    display: inline-block;
+    margin-left: 1cm;
+}
+.tab2 {
+    display: inline-block;
+    margin-left: 2cm;
+}
+.tags{
+    background-color: lightgray;
+    color:cadetblue;
+    padding: 2px;
+}
