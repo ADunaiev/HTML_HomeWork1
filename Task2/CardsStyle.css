@@ -1,0 +1,16 @@
+body {
+    background-color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+}
+span {
+    background-color: darkgray;
+    font-size: 32px;
+    font-weight: bold;
+    padding: 2px;
+}
+.red {
+    color: maroon;
+}
+h2{
+    font-size: 16px;
+}
